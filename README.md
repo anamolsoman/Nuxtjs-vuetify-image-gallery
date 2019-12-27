@@ -1,10 +1,8 @@
-> Nuxt.js gallery developed by Anamol Soman
+> Nuxt.js image gallery developed by Anamol Soman
 
 ## About Project
 
 In this project I build responsive image gallery with nuxtjs and vuetify
-
-## note - select vuetify when installing nuxt
 
 ## Build Setup
 
@@ -17,6 +15,8 @@ $ yarn  dev
 
 # build for production and launch server
 $ yarn build
+
+#Note - select vuetify when installing nuxt
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
